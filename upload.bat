@@ -1,0 +1,1 @@
+scp ResourcePack.zip root@209.250.245.40:/var/www/html
